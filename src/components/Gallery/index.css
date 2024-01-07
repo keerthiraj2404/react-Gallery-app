@@ -1,0 +1,33 @@
+/* Write your code here. */
+.app-container {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  height: 100vh;
+}
+
+.displayed-image {
+  border-radius: 10px;
+  height: 60vh;
+  width: 70vw;
+}
+
+.heading {
+  color: #1e293b;
+  font-size: 18px;
+  font-weight: 800;
+  font-family: 'roboto';
+}
+
+.photographer {
+  color: #64748b;
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight: 700;
+}
+
+.thumb-nail-container {
+  display: flex;
+  flex-direction: row;
+}

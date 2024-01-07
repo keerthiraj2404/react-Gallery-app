@@ -1,0 +1,24 @@
+/* Write your code here. */
+.image {
+  border-radius: 5px;
+  height: 80px;
+  width: 80px;
+  margin: 0px;
+}
+
+.button {
+  cursor: pointer;
+  margin-right: 10px;
+  border-width: 0px;
+  padding: 0px;
+  height: 80px;
+  width: 80px;
+}
+
+.non-selected-image {
+  opacity: 0.5;
+}
+
+.list-none {
+  list-style-type: none;
+}
